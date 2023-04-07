@@ -1,0 +1,26 @@
+.t-shirt{
+ border: 1px solid green;
+ border-radius: 5%;
+ padding: 30%;
+ margin: 5%;
+ position: relative;
+ 
+}
+.t-shirt img{
+ height: 90%;
+ width: 90%;
+}
+.t-shirt h4{
+ margin-top: 3%;
+ margin-bottom: 3%;
+}
+.t-shirt p{
+ margin-top: 3%;
+ margin-bottom: 3%;
+}
+.buy-now-btn{
+ 
+ bottom: 0;
+ margin-top: 5%;
+ 
+}
